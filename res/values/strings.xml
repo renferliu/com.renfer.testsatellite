@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">satelliteView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu1">search</string>
+    <string name="menu2">camera</string>
+    <string name="menu3">message</string>
+     <string name="menu4">music</string>
+    <string name="menu5">map</string>
+	
+
+
+
+
+</resources>

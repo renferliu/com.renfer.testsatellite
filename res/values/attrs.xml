@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="layout_gravity">
+        <enum name="left_top" value="0" />
+        <enum name="left_bottom" value="1" />
+        <enum name="right_top" value="2" />
+        <enum name="right_bottom" value="3" />
+    </attr>
+
+    <!-- 带有进度值的外环旋转型的进度View -->
+    <declare-styleable name="StatelliteMenu">
+        <attr name="layout_gravity" />
+        <attr name="distance" format="dimension" />
+    </declare-styleable>
+
+</resources>
